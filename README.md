@@ -16,7 +16,7 @@
 ## Any bugs or errors or suggestions, report at [Akhil Baiju](https://telegram.me/akhilbaiju)
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akhilbaiju/Sunny-Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akhilbaiju/Sunny-Auto-Filter-Bot2)
 
 ### Deploy in your vps
 ```sh
